@@ -16,5 +16,10 @@ Structured data helps Google and AI search tools read a business's name, address
 4. Only mark up FAQs and services that are visible on the page.
 5. Test with Google's [Rich Results Test](https://search.google.com/test/rich-results) and the [Schema Markup Validator](https://validator.schema.org/).
 
+## Further reading
+
+- Which schema a local service business needs, using `@id` across the site, matching your Google Business Profile, and how to test: https://smart-local.com.au/resources/local-business-schema/
+- Check a live page's schema, NAP consistency and AI crawler access with [ai-search-readiness](https://github.com/smart-local/ai-search-readiness).
+
 ## About
 Smart Local is a local digital marketing and AI search agency in Glasshouse Mountains, QLD. Website: [smart-local.com.au](https://smart-local.com.au/)
