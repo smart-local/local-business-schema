@@ -1,0 +1,1 @@
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"QUESTION 1 (exactly as shown on the page)","acceptedAnswer":{"@type":"Answer","text":"ANSWER 1 (exactly as shown on the page)"}},{"@type":"Question","name":"QUESTION 2","acceptedAnswer":{"@type":"Answer","text":"ANSWER 2"}}]}
