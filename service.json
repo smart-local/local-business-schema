@@ -1,0 +1,1 @@
+{"@context":"https://schema.org","@type":"Service","name":"SERVICE NAME","serviceType":"SERVICE TYPE","description":"One or two sentences describing the service.","url":"https://example.com.au/service-page/","areaServed":["SUBURB OR REGION"],"provider":{"@type":"LocalBusiness","@id":"https://example.com.au/#business","name":"BUSINESS NAME"}}
